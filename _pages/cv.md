@@ -8,63 +8,47 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [amc647@cornell.edu](mailto:amc647@cornell.edu) | | | **Phone:** 
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+I like making cool things that solve small problems and increase quality of life. Tinkering of sorts. Embedded software and hardware
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Biomedical Engineering*  
+  GPA: 4.0/4.0 | 2025-2027
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **Nagoya University**  
+  *NUPACE Exchange Student, Biotechnology*  
+  GPA: 4.0/4.0 | 2024-2025
+  Harry C. Kelly Scholar, JASSO International Scholar
 
+- **North Carolina State University**  
+  *Bachelor of Science in Electrical and Computer Engineering*  
+  GPA: 4.29/4.0 | 2023-2024
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Blender, OnShape
+- **Programming:** Python, MATLAB, C, C++, Javascript, HTML/CSS, GLSL, HLSL  
+- **Tools:** 3D Printing, Laser Cutting, CNC Machining, Hand Tools, PPE, Lab Safety
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **DIY Surface Micromachining**:  
+  *Created a 3D printed machine to create ~100 micron sized features in wax blocks. Made a logic/control board and integrated software for machining passes.*  
+  - Designed, printed, as sembled, created circuit for, and fully coded a 2.5 DoF machine capable of consistent movements within 10 microns and costistent feature machining within 100 microns.
+  - Got experience with micromachining and resin casting, created a sample of dry adhesive ("gecko tape")
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- **Personal Assistive Input Device**:  
+  *Created a wearable input device that allows users to control any Bluetooth device with any movement. First-of-its-kind algorithm allows for programmable path detection with only 5-10 samples.*  
+  - Designed, programmed, and ported a vector database-driven detection algorithm to low-power microcontroller hardware for fast edge machine learning.
+  - Designed and printed a small, non-intrusive and comfortable wearable housing.
 
 ---
 
