@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : 
 name                     : Andrew Combs
 description              : Andrew Combs - Projects and CV 
-baseurl                  : "/fa25-portfolio-amc647-cu"
+baseurl                  : "/fa25-portfolio-amc647-cu/"
 
 # Theme and Style
 theme: jekyll-theme-minimal
